@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Acerca del curso
 
-You can use the [editor on GitHub](https://github.com/DJoser/Curso_IOT_0917/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+En el curso veremos un enfoque practico acerca del Internet de las Cosas,aprenderemos como podemos crear una red de sensores para medir el mundo que nos rodea en tiempo real y tomar acciones basados en los datos recabados, así como un análisis social acerca de un futuro cercano del I.O.T. y como esto afectara la forma en que vivimos.
+Al finalizar el curso obtendremos un prototipo totalmente funcional conectado a la nube y seremos capaces de extenderlo con las herramientas repasadas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Proximamente......
 
-### Markdown
+5/09/2017  3:00:00.0.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contacto
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DJoser/Curso_IOT_0917/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Por favor escribeme a ardestino@gmail.com
